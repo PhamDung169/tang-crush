@@ -1,19 +1,17 @@
-const CONFIG = {
-    introTitle: 'Nhóm 2 à!',
-    introDesc: `Ta là bạn và suốt đời là bạn
-    Dẫu thời gian chan chứa mối duyên thừa
-   Mình và cậu đâu có những chiều mưa
-    Hay nhớ nhung khi gió thu vừa đến`,
-    btnIntro: 'hihi',
-    title: 'Cứ phải có chút rượu bia mới làm bạn bè mình gần nhau hơn? 😙',
-    desc: 'Cứ phải có chút cần sa mới làm bạn bè ta cười với nhao?',
-    btnYes: 'Vẫn cứ là ông tôi <33',
-    btnNo: 'Không, Bạn ạ :3',
-    question:'Cái gì mà đi thì nằm, đứng cũng nằm, nhưng nằm lại đứng?',
-    btnReply: 'Gửi cho các bạn <3',
-    reply: 'Đầu bùi',
-    mess: 'Bàn chân',
-    messDesc: 'Tối nay nhớ gửi bài chép nhá .',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+#include <stdio.h>
+#include <unistd.h>
+
+int main()
+  {     Sleep(2300);
+        printf("      Baby anh muon noi \n"); Sleep(1700);
+        printf("\n      Baby anh muon noiiiiii\n"); Sleep(2100);
+        printf("\n      Anh yeu em\n"); Sleep(1200);
+        printf("\n      Du bay lau"); Sleep(1000);
+        printf(" anh chi cat giu"); Sleep(1500);
+        printf(" o trong tim...\n"); Sleep(1600);
+        printf("\n      Chang the noi len loi\n"); Sleep(2000);
+        printf("\n      Cam xuc kia roi boi."); Sleep(1200);
+        printf(" Anh biet....\n");
+
+    return 0;
 }
